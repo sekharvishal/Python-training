@@ -1,0 +1,3 @@
+hi
+Hello welcome to the text file 
+Let us see some exaplles of read a test in python

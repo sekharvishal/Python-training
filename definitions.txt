@@ -1,0 +1,3 @@
+Class= the set of objects 
+object=it is defined as the entity that has both the state and behavoiur
+method= it is asscoiated with the object
